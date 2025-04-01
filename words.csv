@@ -8,4 +8,4 @@ id,category,subcategory,set,english,french,article,imageUrl,audioUrl
 7,Food,Fruits,1,Lemon,Citron,le,https://example.com/images/lemon.png,https://example.com/audio/citron.mp3
 8,Food,Fruits,1,Peach,Pêche,la,https://example.com/images/peach.png,https://example.com/audio/peche.mp3
 9,Food,Fruits,1,Pear,Poire,la,https://example.com/images/pear.png,https://example.com/audio/poire.mp3
-10,Food,Fruits,1,Watermelon,Pastèque,la,https://example.com/images/watermelon.png,https://example.com/audio/pasteque.mp3
+10,Food,Fruits,2,Watermelon,Pastèque,la,https://example.com/images/watermelon.png,https://example.com/audio/pasteque.mp3
