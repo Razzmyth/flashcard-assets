@@ -19,3 +19,13 @@ id,category,subcategory,set,english,french,article,imageUrl,audioUrl
 18,Food,Fruits,2,Grapefruit,Pamplemousse,le,https://example.com/images/grapefruit.png,https://example.com/audio/pamplemousse.mp3
 19,Food,Fruits,2,Fig,Fig,la,https://example.com/images/fig.png,https://example.com/audio/fig.mp3
 20,Food,Fruits,2,Plum,Prune,la,https://example.com/images/plum.png,https://example.com/audio/prune.mp3
+21,Food,Fruits,3,Dragonfruit,Pitaya,le,https://example.com/images/dragonfruit.png,https://example.com/audio/pitaya.mp3
+22,Food,Fruits,3,Passion Fruit,Fruit de la passion,le,https://example.com/images/passionfruit.png,https://example.com/audio/fruitdelapassion.mp3
+23,Food,Fruits,3,Guava,Goyave,la,https://example.com/images/guava.png,https://example.com/audio/goyave.mp3
+24,Food,Fruits,3,Lychee,Litchi,le,https://example.com/images/lychee.png,https://example.com/audio/litchi.mp3
+25,Food,Fruits,3,Apricot,Abricot,un,https://example.com/images/apricot.png,https://example.com/audio/abricot.mp3
+26,Food,Fruits,3,Pomegranate,Grenade,la,https://example.com/images/pomegranate.png,https://example.com/audio/grenade.mp3
+27,Food,Fruits,3,Starfruit,Carambole,la,https://example.com/images/starfruit.png,https://example.com/audio/carambole.mp3
+28,Food,Fruits,3,Tamarind,Tamarin,le,https://example.com/images/tamarind.png,https://example.com/audio/tamarin.mp3
+29,Food,Fruits,3,Cantaloupe,Cantaloup,le,https://example.com/images/cantaloupe.png,https://example.com/audio/cantaloup.mp3
+30,Food,Fruits,3,Cranberry,Canneberge,la,https://example.com/images/cranberry.png,https://example.com/audio/canneberge.mp3
