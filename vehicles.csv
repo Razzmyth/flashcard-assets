@@ -1,0 +1,11 @@
+id,category,subcategory,set,english,french,article,imageUrl,audioUrl
+1,Vehicles,Land,1,Car,Voiture,la,https://example.com/images/car.png,https://example.com/audio/voiture.mp3
+2,Vehicles,Land,1,Truck,Camion,le,https://example.com/images/truck.png,https://example.com/audio/camion.mp3
+3,Vehicles,Land,1,Motorcycle,Moto,la,https://example.com/images/motorcycle.png,https://example.com/audio/moto.mp3
+4,Vehicles,Land,1,Bicycle,Vélo,le,https://example.com/images/bicycle.png,https://example.com/audio/velo.mp3
+5,Vehicles,Land,1,Bus,Autobus,un,https://example.com/images/bus.png,https://example.com/audio/autobus.mp3
+6,Vehicles,Land,1,Van,Fourgonnette,la,https://example.com/images/van.png,https://example.com/audio/fourgonnette.mp3
+7,Vehicles,Land,1,Scooter,Trottinette,la,https://example.com/images/scooter.png,https://example.com/audio/trottinette.mp3
+8,Vehicles,Land,1,Tractor,Tracteur,le,https://example.com/images/tractor.png,https://example.com/audio/tracteur.mp3
+9,Vehicles,Land,1,ATV,Quad,le,https://example.com/images/atv.png,https://example.com/audio/quad.mp3
+10,Vehicles,Land,1,Ambulance,Ambulance,une,https://example.com/images/ambulance.png,https://example.com/audio/ambulance.mp3
