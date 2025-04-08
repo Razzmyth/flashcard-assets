@@ -1,0 +1,7 @@
+id,wordType,category,subcategory,set,english,french,article,imageUrl,audioUrl
+1,Adjectives,Colors,Primary,1,Red,Rouge,le,https://example.com/images/red.png,https://example.com/audio/rouge.mp3
+2,Adjectives,Colors,Primary,1,Blue,Bleu,le,https://example.com/images/blue.png,https://example.com/audio/bleu.mp3
+3,Adjectives,Colors,Primary,1,Yellow,Jaune,le,https://example.com/images/yellow.png,https://example.com/audio/jaune.mp3
+4,Adjectives,Colors,Primary,1,Green,Vert,le,https://example.com/images/green.png,https://example.com/audio/vert.mp3
+5,Adjectives,Colors,Primary,1,Black,Noir,le,https://example.com/images/black.png,https://example.com/audio/noir.mp3
+6,Adjectives,Colors,Primary,1,White,Blanc,le,https://example.com/images/white.png,https://example.com/audio/blanc.mp3
