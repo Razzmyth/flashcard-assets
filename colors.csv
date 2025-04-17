@@ -5,3 +5,17 @@ id,wordType,category,subcategory,set,english,french,article,imageUrl,audioUrl
 4,Adjectives,Colors,Primary,1,Green,Vert,le,https://example.com/images/green.png,https://example.com/audio/vert.mp3
 5,Adjectives,Colors,Primary,1,Black,Noir,le,https://example.com/images/black.png,https://example.com/audio/noir.mp3
 6,Adjectives,Colors,Primary,1,White,Blanc,le,https://example.com/images/white.png,https://example.com/audio/blanc.mp3
+7,Adjectives,Colors,Primary,1,Orange,Orange,le,https://example.com/images/orange.png,https://example.com/audio/orange.mp3
+8,Adjectives,Colors,Primary,1,Pink,Rose,le,https://example.com/images/pink.png,https://example.com/audio/rose.mp3
+9,Adjectives,Colors,Primary,1,Brown,Marron,le,https://example.com/images/brown.png,https://example.com/audio/marron.mp3
+10,Adjectives,Colors,Primary,1,Purple,Violet,le,https://example.com/images/purple.png,https://example.com/audio/violet.mp3
+11,Adjectives,Colors,Primary,2,Grey,Gris,le,https://example.com/images/grey.png,https://example.com/audio/gris.mp3
+12,Adjectives,Colors,Primary,2,Beige,Beige,le,https://example.com/images/beige.png,https://example.com/audio/beige.mp3
+13,Adjectives,Colors,Primary,2,Turquoise,Turquoise,le,https://example.com/images/turquoise.png,https://example.com/audio/turquoise.mp3
+14,Adjectives,Colors,Primary,2,Lilac,Lilas,le,https://example.com/images/lilac.png,https://example.com/audio/lilas.mp3
+15,Adjectives,Colors,Primary,2,Teal,Sarcelle,la,https://example.com/images/teal.png,https://example.com/audio/sarcelle.mp3
+16,Adjectives,Colors,Primary,2,Silver,Argenté,le,https://example.com/images/silver.png,https://example.com/audio/argente.mp3
+17,Adjectives,Colors,Primary,2,Gold,Doré,le,https://example.com/images/gold.png,https://example.com/audio/dore.mp3
+18,Adjectives,Colors,Primary,2,Indigo,Indigo,le,https://example.com/images/indigo.png,https://example.com/audio/indigo.mp3
+19,Adjectives,Colors,Primary,2,Navy,Bleu marine,le,https://example.com/images/navy.png,https://example.com/audio/bleumarine.mp3
+20,Adjectives,Colors,Primary,2,Magenta,Magenta,le,https://example.com/images/magenta.png,https://example.com/audio/magenta.mp3
