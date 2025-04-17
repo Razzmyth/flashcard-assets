@@ -1,21 +1,40 @@
-id,wordType,category,subcategory,set,english,french,article,imageUrl,audioUrl
-1,Adjectives,Colors,Primary,1,Red,Rouge,le,https://example.com/images/red.png,https://example.com/audio/rouge.mp3
-2,Adjectives,Colors,Primary,1,Blue,Bleu,le,https://example.com/images/blue.png,https://example.com/audio/bleu.mp3
-3,Adjectives,Colors,Primary,1,Yellow,Jaune,le,https://example.com/images/yellow.png,https://example.com/audio/jaune.mp3
-4,Adjectives,Colors,Primary,1,Green,Vert,le,https://example.com/images/green.png,https://example.com/audio/vert.mp3
-5,Adjectives,Colors,Primary,1,Black,Noir,le,https://example.com/images/black.png,https://example.com/audio/noir.mp3
-6,Adjectives,Colors,Primary,1,White,Blanc,le,https://example.com/images/white.png,https://example.com/audio/blanc.mp3
-7,Adjectives,Colors,Primary,1,Orange,Orange,le,https://example.com/images/orange.png,https://example.com/audio/orange.mp3
-8,Adjectives,Colors,Primary,1,Pink,Rose,le,https://example.com/images/pink.png,https://example.com/audio/rose.mp3
-9,Adjectives,Colors,Primary,1,Brown,Marron,le,https://example.com/images/brown.png,https://example.com/audio/marron.mp3
-10,Adjectives,Colors,Primary,1,Purple,Violet,le,https://example.com/images/purple.png,https://example.com/audio/violet.mp3
-11,Adjectives,Colors,Primary,2,Grey,Gris,le,https://example.com/images/grey.png,https://example.com/audio/gris.mp3
-12,Adjectives,Colors,Primary,2,Beige,Beige,le,https://example.com/images/beige.png,https://example.com/audio/beige.mp3
-13,Adjectives,Colors,Primary,2,Turquoise,Turquoise,le,https://example.com/images/turquoise.png,https://example.com/audio/turquoise.mp3
-14,Adjectives,Colors,Primary,2,Lilac,Lilas,le,https://example.com/images/lilac.png,https://example.com/audio/lilas.mp3
-15,Adjectives,Colors,Primary,2,Teal,Sarcelle,la,https://example.com/images/teal.png,https://example.com/audio/sarcelle.mp3
-16,Adjectives,Colors,Primary,2,Silver,Argenté,le,https://example.com/images/silver.png,https://example.com/audio/argente.mp3
-17,Adjectives,Colors,Primary,2,Gold,Doré,le,https://example.com/images/gold.png,https://example.com/audio/dore.mp3
-18,Adjectives,Colors,Primary,2,Indigo,Indigo,le,https://example.com/images/indigo.png,https://example.com/audio/indigo.mp3
-19,Adjectives,Colors,Primary,2,Navy,Bleu marine,le,https://example.com/images/navy.png,https://example.com/audio/bleumarine.mp3
-20,Adjectives,Colors,Primary,2,Magenta,Magenta,le,https://example.com/images/magenta.png,https://example.com/audio/magenta.mp3
+id	wordType	category	subcategory	set	english	french	article	imageUrl	audioUrl
+1	Adjectives	Colors	Primary	1	Red	Rouge	le	https://example.com/images/red.png	https://example.com/audio/rouge.mp3
+2	Adjectives	Colors	Primary	1	Blue	Bleu	le	https://example.com/images/blue.png	https://example.com/audio/bleu.mp3
+3	Adjectives	Colors	Primary	1	Yellow	Jaune	le	https://example.com/images/yellow.png	https://example.com/audio/jaune.mp3
+4	Adjectives	Colors	Primary	1	Green	Vert	le	https://example.com/images/green.png	https://example.com/audio/vert.mp3
+5	Adjectives	Colors	Primary	1	Black	Noir	le	https://example.com/images/black.png	https://example.com/audio/noir.mp3
+6	Adjectives	Colors	Primary	1	White	Blanc	le	https://example.com/images/white.png	https://example.com/audio/blanc.mp3
+7	Adjectives	Colors	Primary	1	Orange	Orange	le	https://example.com/images/orange.png	https://example.com/audio/orange.mp3
+8	Adjectives	Colors	Primary	1	Pink	Rose	le	https://example.com/images/pink.png	https://example.com/audio/rose.mp3
+9	Adjectives	Colors	Primary	1	Brown	Marron	le	https://example.com/images/brown.png	https://example.com/audio/marron.mp3
+10	Adjectives	Colors	Primary	1	Purple	Violet	le	https://example.com/images/purple.png	https://example.com/audio/violet.mp3
+11	Adjectives	Colors	Primary	2	Grey	Gris	le	https://example.com/images/grey.png	https://example.com/audio/gris.mp3
+12	Adjectives	Colors	Primary	2	Beige	Beige	le	https://example.com/images/beige.png	https://example.com/audio/beige.mp3
+13	Adjectives	Colors	Primary	2	Turquoise	Turquoise	le	https://example.com/images/turquoise.png	https://example.com/audio/turquoise.mp3
+14	Adjectives	Colors	Primary	2	Lilac	Lilas	le	https://example.com/images/lilac.png	https://example.com/audio/lilas.mp3
+15	Adjectives	Colors	Primary	2	Teal	Sarcelle	la	https://example.com/images/teal.png	https://example.com/audio/sarcelle.mp3
+16	Adjectives	Colors	Primary	2	Silver	ArgentÃ©	le	https://example.com/images/silver.png	https://example.com/audio/argente.mp3
+17	Adjectives	Colors	Primary	2	Gold	DorÃ©	le	https://example.com/images/gold.png	https://example.com/audio/dore.mp3
+18	Adjectives	Colors	Primary	2	Indigo	Indigo	le	https://example.com/images/indigo.png	https://example.com/audio/indigo.mp3
+19	Adjectives	Colors	Primary	2	Navy	Bleu marine	le	https://example.com/images/navy.png	https://example.com/audio/bleumarine.mp3
+20	Adjectives	Colors	Primary	2	Magenta	Magenta	le	https://example.com/images/magenta.png	https://example.com/audio/magenta.mp3
+21	Adjectives	Colors	Primary	3	Cyan	Cyan	le	https://example.com/images/cyan.png	https://example.com/audio/cyan.mp3
+22	Adjectives	Colors	Primary	3	Maroon	Bordeaux	le	https://example.com/images/maroon.png	https://example.com/audio/bordeaux.mp3
+23	Adjectives	Colors	Primary	3	Olive	Olive	le	https://example.com/images/olive.png	https://example.com/audio/olive.mp3
+24	Adjectives	Colors	Primary	3	Coral	Corail	le	https://example.com/images/coral.png	https://example.com/audio/corail.mp3
+25	Adjectives	Colors	Primary	3	Lavender	Lavande	la	https://example.com/images/lavender.png	https://example.com/audio/lavande.mp3
+26	Adjectives	Colors	Primary	3	Mint	Menthe	la	https://example.com/images/mint.png	https://example.com/audio/menthe.mp3
+27	Adjectives	Colors	Primary	3	Peach	PÃªche	la	https://example.com/images/peach.png	https://example.com/audio/peche.mp3
+28	Adjectives	Colors	Primary	3	Ivory	Ivoire	l'	https://example.com/images/ivory.png	https://example.com/audio/ivoire.mp3
+29	Adjectives	Colors	Primary	3	Amber	Ambre	l'	https://example.com/images/amber.png	https://example.com/audio/ambre.mp3
+30	Adjectives	Colors	Primary	3	Charcoal	Charbon	le	https://example.com/images/charcoal.png	https://example.com/audio/charbon.mp3
+31	Adjectives	Colors	Primary	4	Tan	Fauve	le	https://example.com/images/tan.png	https://example.com/audio/fauve.mp3
+32	Adjectives	Colors	Primary	4	Sky Blue	Bleu ciel	le	https://example.com/images/sky_blue.png	https://example.com/audio/bleuciel.mp3
+33	Adjectives	Colors	Primary	4	Lime	Citron vert	le	https://example.com/images/lime.png	https://example.com/audio/citronvert.mp3
+34	Adjectives	Colors	Primary	4	Crimson	Cramoisi	le	https://example.com/images/crimson.png	https://example.com/audio/cramoisi.mp3
+35	Adjectives	Colors	Primary	4	Sea Green	Vert de mer	le	https://example.com/images/sea_green.png	https://example.com/audio/vertdemer.mp3
+36	Adjectives	Colors	Primary	4	Sand	Sable	le	https://example.com/images/sand.png	https://example.com/audio/sable.mp3
+37	Adjectives	Colors	Primary	4	Mustard	Moutarde	la	https://example.com/images/mustard.png	https://example.com/audio/moutarde.mp3
+38	Adjectives	Colors	Primary	4	Bronze	Bronze	le	https://example.com/images/bronze.png	https://example.com/audio/bronze.mp3
+39	Adjectives	Colors	Primary	4	Azure	Azur	l'	https://example.com/images/azure.png	https://example.com/audio/azur.mp3
