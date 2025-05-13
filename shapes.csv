@@ -1,1 +1,24 @@
-ggg
+wordType,category,subcategory,set,english,french,article,imageUrl,audioUrl
+Nouns,Shapes,Basic,1,circle,cercle,le,,
+Nouns,Shapes,Basic,1,square,carré,le,,
+Nouns,Shapes,Basic,1,triangle,triangle,le,,
+Nouns,Shapes,Basic,1,rectangle,rectangle,le,,
+Nouns,Shapes,Basic,1,oval,ovale,l’,,
+Nouns,Shapes,Basic,1,star,étoile,la,,
+Nouns,Shapes,Basic,1,heart,coeur,le,,
+Nouns,Shapes,Basic,1,diamond,losange,le,,
+Nouns,Shapes,Basic,1,hexagon,hexagone,le,,
+Nouns,Shapes,Basic,1,octagon,octogone,le,,
+
+
+
+Nouns,Shapes,3D,1,cube,cube,le,,
+Nouns,Shapes,3D,1,sphere,sphère,la,,
+Nouns,Shapes,3D,1,cylinder,cylindre,le,,
+Nouns,Shapes,3D,1,cone,cône,le,,
+Nouns,Shapes,3D,1,pyramid,pyramide,la,,
+Nouns,Shapes,3D,1,rectangular prism,prisme rectangulaire,le,,
+Nouns,Shapes,3D,1,triangular prism,prisme triangulaire,le,,
+Nouns,Shapes,3D,1,hemisphere,hémisphère,le,,
+Nouns,Shapes,3D,1,tetrahedron,tétraèdre,le,,
+Nouns,Shapes,3D,1,torus,tore,le,,
