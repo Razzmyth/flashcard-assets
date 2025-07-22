@@ -1,4 +1,4 @@
-wordType,category,subcategory,set,english,french,article
+wordType,category,subcategory,set,english,french,article,imageUrl,audioUrl
 Grammar,Determiners,Articles définis (Definite Articles),Set 1,the book,livre,le,,
 Grammar,Determiners,Articles définis (Definite Articles),Set 1,the car,voiture,la,,
 Grammar,Determiners,Articles définis (Definite Articles),Set 1,the child,enfant,l',,
